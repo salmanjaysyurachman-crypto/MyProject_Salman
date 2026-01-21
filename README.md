@@ -1,1 +1,1 @@
-REPOSITORY BARU DARI PC LOKALt  
+Belajar git ignore
